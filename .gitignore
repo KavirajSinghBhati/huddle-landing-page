@@ -1,0 +1,6 @@
+#Untrack folders
+
+node_modules/
+package-lock.json
+style-guide.md
+textforhtml.txt
